@@ -13,4 +13,4 @@
 ## Запуск
 
 ```bash
-go run matrixzad5.go
+go run matrix.go
